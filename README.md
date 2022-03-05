@@ -1,5 +1,9 @@
 ## How to run this
- 
+
+- For this assignement I am using sqlite database, already present in th repository with name `db.sqlite`.
+
+#) `npm install` to install all the dependency of the package json file.
+
 1) Start the server by running `npm start`
 
 2) Check the swagger-ui on `http://localhost:3000/docs`
