@@ -1,0 +1,29 @@
+{
+  "name": "attainU",
+  "version": "0.0.1",
+  "author": "Shubham Yash Tomar",
+  "contributors": [
+    "Shubham Yash Tomar <syashtomar@gmail.com>"
+  ],
+  "description": "attainU assignment",
+  "keywords": [],
+  "license": "",
+  "main": "app",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.3.0",
+    "sqlite": "^3.0.6",
+    "sqlite3": "^4.2.0",
+    "swagger-tools": "^0.10.4",
+    "validator": "^13.7.0",
+    "yamljs": "0.2.9"
+  },
+  "engines": {
+    "node": "7.7.0"
+  },
+  "scripts": {
+    "start": "node app"
+  }
+}
